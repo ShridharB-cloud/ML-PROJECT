@@ -74,16 +74,6 @@ To test the project, follow these steps:
 2. **Integration Testing**: Test the web application by interacting with it and verifying the results
 3. **Model Evaluation**: Evaluate the trained model using metrics such as accuracy score, classification report, and confusion matrix
 
-📸 Screenshots
----------------
-[Placeholder for screenshot 1]
-[Placeholder for screenshot 2]
-[Placeholder for screenshot 3]
-
-📦 API Reference
-----------------
-If applicable, the API reference can be found [here](#).
-
 👤 Author
 --------
 The Machine Learning Model Trainer and Predictor was created by [Your Name].
